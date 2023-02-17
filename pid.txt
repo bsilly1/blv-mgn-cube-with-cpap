@@ -1,0 +1,9 @@
+old
+
+#pid_kp = 18.794
+#pid_ki = 0.824
+#pid_kd = 107.127
+
+new
+
+PID parameters: pid_Kp=18.688 pid_Ki=0.820 pid_Kd=106.523
