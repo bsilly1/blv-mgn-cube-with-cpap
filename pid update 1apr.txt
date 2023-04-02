@@ -1,0 +1,17 @@
+old
+#*# [extruder]
+#*# control = pid
+#*# pid_kp = 17.677
+#*# pid_ki = 0.714
+#*# pid_kd = 109.379
+
+new
+PID parameters: pid_Kp=18.235 pid_Ki=0.602 pid_Kd=138.130
+The SAVE_CONFIG command will update the printer config file
+with these parameters and restart the printer.
+
+new 2
+
+PID parameters: pid_Kp=18.387 pid_Ki=0.613 pid_Kd=137.900
+The SAVE_CONFIG command will update the printer config file
+with these parameters and restart the printer.
