@@ -8,7 +8,7 @@ Klipperscreen With HDMI Touchscreen.
 
 TMC2226 Drivers With Sensorless Homing X/Y
 
-Superpinda Probe.
+Superpinda Probe REPLACED with BTT EDDY.
 
 Dual Independent Z.
 
