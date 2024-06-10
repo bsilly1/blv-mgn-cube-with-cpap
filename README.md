@@ -12,7 +12,7 @@ Superpinda Probe REPLACED with BTT EDDY.
 
 Dual Independent Z.
 
-Mellow NF Sunrise DD.
+Mellow NF Sunrise DD with Trainglelab CHC Pro volcano
 
 Crowsnest Camera Configuration.
 
